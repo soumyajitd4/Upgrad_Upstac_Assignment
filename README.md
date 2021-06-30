@@ -1,2 +1,2 @@
-# upstac-assignment
-Code repository for UPSTAC assignment for Module Level Implementation.
+# upgrad assignment  
+Repository for UPSTAC assignment for Module Level Implementation, Experiential Learning.
